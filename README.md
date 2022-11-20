@@ -59,6 +59,7 @@ What can We Find in this Kitchen?
 2. 虽然一般没有生命危险，但是一切消耗品记得检查保质期
 3. 工具和容器记得先简单冲洗再用，虽然可以保证上次用完之后洗过（不一定能洗干净），但不保证有人记得上次用是什么时候
 4. 在不关心细节的情况下，我们还是很关心食品安全的
+5. 有问题和意见可以提交到 https://github.com/Huajing-Young/Kitchen-of-Guan 
 
 ## TODO
 1. 加一个熟食砧板
